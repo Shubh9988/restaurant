@@ -1,4 +1,4 @@
-# Anish's Restaurant Management System
+# Shubham's Restaurant Management System
 * This Spring Boot application manages a list of restaurants. It allows performing various operations on restaurants.
 
 ## Getting Started
